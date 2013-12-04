@@ -1,0 +1,6 @@
+ul.menu{list-style:none;width:570px;margin:0 0 10px 0;padding:0;}
+ul.menu li{float:left;margin:0px 10px;}
+ul.menu li a{text-decoration:none;}
+.block-wrap{float:left;width:570px;margin:0;padding:0;position:relative;}
+.block-wrap li{float:left;list-style:none;width:130px;height:130px;margin:10px 10px 0px 0px;background:#ccc;border:1px solid #000;position:relative;}
+.block-wrap li a{display:block;text-decoration:none;} 
